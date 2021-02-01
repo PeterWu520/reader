@@ -68,6 +68,6 @@
 
 # 以下为框架相关（开辟了两个分支，一个是单项目的，一个是模块化的）
 
-    * [单模块版本](https://github.com/woodwen/reader/tree/dev-single)
+   [单模块版本](https://github.com/woodwen/reader/tree/dev-single)
 
-    * [多模块版本](https://github.com/woodwen/reader/tree/dev-multiple)
+   [多模块版本](https://github.com/woodwen/reader/tree/dev-multiple)
