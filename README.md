@@ -13,6 +13,9 @@
 
 5.OKBook kotlin + 协程 + MVVM 模式来编写的看小说APP [OKBook](https://gitee.com/xcode_xiao/OKBook)
 
+# 应用版本地址
+[reader_v1.0.1](https://raw.githubusercontent.com/woodwen/reader/main/apk/reader_v1.0.1.apk)
+
 # 应用展示
 
 ![](https://github.com/woodwen/reader/blob/main/screenshot/1.jpeg)
