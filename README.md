@@ -15,12 +15,12 @@
 
 # 应用展示
 
-![](https://github.com/woodwen/reader/blob/main/screenshot/1.jpeg)
-![](https://github.com/woodwen/reader/blob/main/screenshot/2.jpeg)
-![](https://github.com/woodwen/reader/blob/main/screenshot/3.jpeg)
-![](https://github.com/woodwen/reader/blob/main/screenshot/4.jpeg)
-![](https://github.com/woodwen/reader/blob/main/screenshot/5.jpeg)
-![](https://github.com/woodwen/reader/blob/main/screenshot/6.jpeg)
+![](https://github.com/woodwen/reader/tree/main/screenshot/1.jpeg)
+![](https://github.com/woodwen/reader/tree/main/screenshot/2.jpeg)
+![](https://github.com/woodwen/reader/tree/main/screenshot/3.jpeg)
+![](https://github.com/woodwen/reader/tree/main/screenshot/4.jpeg)
+![](https://github.com/woodwen/reader/tree/main/screenshot/5.jpeg)
+![](https://github.com/woodwen/reader/tree/main/screenshot/6.jpeg)
 
 
 # 应用简介
@@ -68,6 +68,6 @@
 
 # 以下为框架相关（开辟了两个分支，一个是单项目的，一个是模块化的）
 
-    * [单模块版本](https://github.com/woodwen/reader/tree/dev-single)
+   [单模块版本](https://github.com/woodwen/reader/tree/dev-single)
 
-    * [多模块版本](https://github.com/woodwen/reader/tree/dev-multiple)
+   [多模块版本](https://github.com/woodwen/reader/tree/dev-multiple)
