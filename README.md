@@ -15,12 +15,12 @@
 
 # 应用展示
 
-![](https://github.com/woodwen/reader/tree/main/screenshot/1.jpeg)
-![](https://github.com/woodwen/reader/tree/main/screenshot/2.jpeg)
-![](https://github.com/woodwen/reader/tree/main/screenshot/3.jpeg)
-![](https://github.com/woodwen/reader/tree/main/screenshot/4.jpeg)
-![](https://github.com/woodwen/reader/tree/main/screenshot/5.jpeg)
-![](https://github.com/woodwen/reader/tree/main/screenshot/6.jpeg)
+![](https://github.com/woodwen/reader/blob/main/screenshot/1.jpeg)
+![](https://github.com/woodwen/reader/blob/main/screenshot/2.jpeg)
+![](https://github.com/woodwen/reader/blob/main/screenshot/3.jpeg)
+![](https://github.com/woodwen/reader/blob/main/screenshot/4.jpeg)
+![](https://github.com/woodwen/reader/blob/main/screenshot/5.jpeg)
+![](https://github.com/woodwen/reader/blob/main/screenshot/6.jpeg)
 
 
 # 应用简介
